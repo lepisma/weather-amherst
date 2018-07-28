@@ -5,7 +5,7 @@
 ;; Author: Abhinav Tushar <lepisma@fastmail.com>
 ;; Version: 0.0.1
 ;; Package-Requires: ((dash "2.13.0") (s "1.12.0") (emacs "25") (enlive "0.0.1"))
-;; URL: https://github.com/lepisma/rogue/tree/master/local/weather-amherst
+;; URL: https://github.com/lepisma/weather-amherst
 
 ;;; Commentary:
 
